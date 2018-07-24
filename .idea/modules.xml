@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Bruch/Bruch.iml" filepath="$PROJECT_DIR$/Bruch/Bruch.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CollectionsTimetaking/CollectionsTimetaking.iml" filepath="$PROJECT_DIR$/CollectionsTimetaking/CollectionsTimetaking.iml" />
+      <module fileurl="file://$PROJECT_DIR$/GameOfLife/GameOfLife.iml" filepath="$PROJECT_DIR$/GameOfLife/GameOfLife.iml" />
+      <module fileurl="file://$PROJECT_DIR$/GameOfLife2/GameOfLife2.iml" filepath="$PROJECT_DIR$/GameOfLife2/GameOfLife2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LinkedList/LinkedList.iml" filepath="$PROJECT_DIR$/LinkedList/LinkedList.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LinkedListGeneric/LinkedListGeneric.iml" filepath="$PROJECT_DIR$/LinkedListGeneric/LinkedListGeneric.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Semester2Programmieraufgaben.iml" filepath="$PROJECT_DIR$/Semester2Programmieraufgaben.iml" />
+      <module fileurl="file://$PROJECT_DIR$/State/State.iml" filepath="$PROJECT_DIR$/State/State.iml" />
+      <module fileurl="file://$PROJECT_DIR$/StudierendeSortieren/StudierendeSortieren.iml" filepath="$PROJECT_DIR$/StudierendeSortieren/StudierendeSortieren.iml" />
+      <module fileurl="file://$PROJECT_DIR$/umgekehrtePolnischeNotation/umgekehrtePolnischeNotation.iml" filepath="$PROJECT_DIR$/umgekehrtePolnischeNotation/umgekehrtePolnischeNotation.iml" />
+    </modules>
+  </component>
+</project>
